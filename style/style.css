@@ -83,3 +83,6 @@ button>img{
     height: 2rem;
     margin: 10px 0 0 10px;
 }
+.border{
+    border:#00598d 1px solid;
+}
